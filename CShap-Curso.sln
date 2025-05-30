@@ -26,6 +26,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CicloWhile", "CicloWhile\CicloWhile.csproj", "{BBD45252-775C-4AE4-83DB-210D89D6387C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CicloFor", "CicloFor\CicloFor.csproj", "{BAD400C8-0368-4204-A655-5E67976B99B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -64,6 +66,10 @@ Global
 		{BBD45252-775C-4AE4-83DB-210D89D6387C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBD45252-775C-4AE4-83DB-210D89D6387C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBD45252-775C-4AE4-83DB-210D89D6387C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD400C8-0368-4204-A655-5E67976B99B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD400C8-0368-4204-A655-5E67976B99B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD400C8-0368-4204-A655-5E67976B99B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD400C8-0368-4204-A655-5E67976B99B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

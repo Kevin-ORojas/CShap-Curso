@@ -6,9 +6,9 @@ namespace CicloWhile
     {
         static void Main(string[] args)
         {
-            int i  = 0;
+            int i = 0;
 
-            while (i < 10) 
+            while (i < 10)
             {
                 Console.WriteLine("Iteracion de i " + i);
                 i++;
@@ -16,7 +16,7 @@ namespace CicloWhile
 
             int j = 0;
 
-            while(j < 100)
+            while (j < 100)
             {
                 if (j > 10)
                     break;
@@ -26,21 +26,31 @@ namespace CicloWhile
             }
 
 
-        string[] friends = [
-            "Kevin",
+            string[] friends = [
+                "Kevin",
             "pedro",
             "arnaldo",
             "pantalon",
             "camisa"
-            ];
+                ];
 
 
-        int index = 0;
-        while(index < friends.Length)
+            int index = 0;
+            while (index < friends.Length)
             {
                 Console.WriteLine(friends[index]);
                 index++;
             }
+            bool run = false;
+            do
+            {
+                Show();
+            } while (run);
+        }
+
+        static void Show()
+        {
+            Console.WriteLine("Esto entro una vez y ya");
         }
     }
 }

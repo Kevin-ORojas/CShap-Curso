@@ -15,6 +15,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentenciaSwitch", "Sentenci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arreglos", "Arreglos\Arreglos.csproj", "{28336431-9F0D-4471-95E3-5CB6D131CB0C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ejercicios", "ejercicios", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1", "Ejercicio1\Ejercicio1.csproj", "{03979835-F0C1-4289-BBCE-706DD5C97C47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7CE12D96-49A1-4FD8-B601-48CF9A594B9A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,9 +54,16 @@ Global
 		{28336431-9F0D-4471-95E3-5CB6D131CB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28336431-9F0D-4471-95E3-5CB6D131CB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28336431-9F0D-4471-95E3-5CB6D131CB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03979835-F0C1-4289-BBCE-706DD5C97C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03979835-F0C1-4289-BBCE-706DD5C97C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03979835-F0C1-4289-BBCE-706DD5C97C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03979835-F0C1-4289-BBCE-706DD5C97C47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{03979835-F0C1-4289-BBCE-706DD5C97C47} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {00172B08-5BD5-4165-A78B-C9CD1F8FAF36}

@@ -19,7 +19,7 @@ static void Main()
     string Aprobado = "Aprobado";
     string Reprobado = "Reprobado";
 
-    //recorrer el array y evaluar cada calificacion
+    //recorrer el array y evaluar cada calificacion si tengo una lista de notas esto las recorre y me indica cuales estan aprobados o reprobadas.
     //foreach (int calificacion in calificaciones)
     //{
     //    Cal(calificacion, Aprobado, Reprobado);

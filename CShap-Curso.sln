@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicionales", "Condiciona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentenciaSwitch", "SentenciaSwitch\SentenciaSwitch.csproj", "{DA7A45DE-1B74-4318-B884-003B35E7275F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arreglos", "Arreglos\Arreglos.csproj", "{28336431-9F0D-4471-95E3-5CB6D131CB0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DA7A45DE-1B74-4318-B884-003B35E7275F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA7A45DE-1B74-4318-B884-003B35E7275F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA7A45DE-1B74-4318-B884-003B35E7275F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28336431-9F0D-4471-95E3-5CB6D131CB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28336431-9F0D-4471-95E3-5CB6D131CB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28336431-9F0D-4471-95E3-5CB6D131CB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28336431-9F0D-4471-95E3-5CB6D131CB0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

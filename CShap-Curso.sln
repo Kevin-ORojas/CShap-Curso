@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CicloFor", "CicloFor\CicloF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasesYObjetos", "ClasesYObjetos\ClasesYObjetos.csproj", "{020A1560-A4EF-4091-9571-66B31037B7DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Propiedades", "Propiedades\Propiedades.csproj", "{6DFD4DF8-0A9D-4C80-88D3-13CD53CA56CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -76,6 +78,10 @@ Global
 		{020A1560-A4EF-4091-9571-66B31037B7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{020A1560-A4EF-4091-9571-66B31037B7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{020A1560-A4EF-4091-9571-66B31037B7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DFD4DF8-0A9D-4C80-88D3-13CD53CA56CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DFD4DF8-0A9D-4C80-88D3-13CD53CA56CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DFD4DF8-0A9D-4C80-88D3-13CD53CA56CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DFD4DF8-0A9D-4C80-88D3-13CD53CA56CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
